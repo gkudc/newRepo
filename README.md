@@ -1,3 +1,4 @@
 # newRepo
-revison Repo
-Author GAndhar Kudchadker
+revison Repo.
+<br>
+Author: Gandhar Kudchadker
