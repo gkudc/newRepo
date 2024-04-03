@@ -1,4 +1,4 @@
 # newRepo
 revison Repo.
 <br>
-Author: Gandhar Kudchadker
+Author: Gandhar P. Kudchadker
